@@ -1,0 +1,12 @@
+[
+  {
+    "label": "Build",
+    "command": "./build.sh",
+    "pwd": "&{workspaceRoot}"
+  },
+  {
+    "label": "Build and Run",
+    "command": "./build_and_run.sh",
+    "pwd": "&{workspaceRoot}"
+  }
+]
